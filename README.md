@@ -141,5 +141,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 ## Author:
-Deborah Jimmy||deborajimmy.dj@gmail.com||
-Gbemi Jacob Adebayo||adebayogbemi90@gmail.com||
+Getie Balew||getiebalew2020@gmail.com||
+Moratiwa Ndiane||moratiwapearl@gmail.com||
